@@ -9,7 +9,7 @@ Database: java-derby.
 1) It feels comfortable to use Graphical User Interface to perform  CRUD operations on java-derby database rather than command line.
 2) It can generate Data Layer of any table just in one click.
 3) Platform Independent as developed in java.
-4) User dont have to worry writing Data Layer again again for many application.
+4) User dont have to worry about writing code for Data Layer again again for different applications.
 
 
 ## Getting Started.
