@@ -53,7 +53,6 @@ Now Click on menu Button you will see these options.
 ### 2.Disconnect
 ### 3.RAD Settings
 ### 4.Quit
-This is to connect you to database.
  
 After Clicking on Connect button.
 
@@ -63,9 +62,9 @@ you will see.
 
 
 
-Now you have to fill PortNumber, Server Name/IP , and Name of the database you want to create  or thename of a existence database to which you want to connect then click on Create/Click Button.
+Now you have to fill PortNumber, Server Name/IP , and Name of the database you want to create or thename of a existence database to which you want to connect then click on Create/Click Button.
 
-In my case I have a database named tmplacements and port Number 1527 and server Name :- localhost.
+In my case I have a database named tmplacements and port Number is 1527 and server Name is localhost.
 
 After Clicking on Connect You will see this window.
 
@@ -86,10 +85,12 @@ Now you can fire any sql statement to perform operations on your database and yo
  
  Now you can select any of the table and click on Genrate DTO Button .woahh! whole Data Layer is generated in the folder you have set in Rad Settings.
  
- [![asciicast](https://github.com/SIDDHANTJOHARI/SQL-SCRIPTING-TOOL/blob/master/images/SQLGUITOOL.mp4)
+ For the better Understanding you can watch this video.
+ 
+ [![asciicast](https://youtu.be/70vW5MPHDB8)
  Now you can click on disconnect to be disconnected from database.
   
- And by clicking on Quit Button you can close the Application.
+ Now d by clicking on Quit Button you can close the Application.
  
  Thanks,
  Siddhant Johari
