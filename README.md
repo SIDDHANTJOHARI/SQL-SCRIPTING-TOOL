@@ -1,5 +1,5 @@
 # SQL-SCRIPTING-TOOL
-This is a java-based desktop application that provides the user with a GUI to interact with the Java-derby database.
+This is a java-based desktop application that provides the user interface with a GUI to interact with the Java-derby database.
 
 Technology: JAVA.
 
