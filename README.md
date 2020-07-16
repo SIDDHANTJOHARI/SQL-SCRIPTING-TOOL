@@ -87,7 +87,7 @@ Now you can fire any sql statement to perform operations on your database and yo
  
  For the better Understanding you can watch this video.
  
-  [Click me](https://youtu.be/70vW5MPHDB8)
+  [Click me](https://youtu.be/-W6b0vwQnf0)
   
  Now you can click on disconnect to be disconnected from database.
   
