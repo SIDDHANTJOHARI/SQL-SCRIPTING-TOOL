@@ -26,6 +26,8 @@ After Extracting this structure is created
 /SQLGUITOOL.jar
   
 /lib
+
+/META-INF
   
 ## Step 2(Instantiate Java-derby Server)
 In this step as I have include java-dery as prerequisites it means you have already had downloaded it.
