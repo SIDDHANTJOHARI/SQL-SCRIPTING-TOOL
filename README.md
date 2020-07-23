@@ -17,7 +17,7 @@ Prerequisite: Java 8 or above, Java-derby.
 
 Steps to use the Application:
 ## Step 1(Download jar and Extract it)
-Download the [dowload.jar](https://github.com/SIDDHANTJOHARI/SQL-SCRIPTING-TOOL/blob/master/download.jar) File.
+Download the [dowload.jar](https://github.com/SIDDHANTJOHARI/SQL-SCRIPTING-TOOL/blob/master/GUITOOL.jar) File.
 
 Extract it anywhere you want to.
 
